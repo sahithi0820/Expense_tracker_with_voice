@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-numpy
-SpeechRecognition
-PyAudio
-dateparser
