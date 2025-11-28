@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-numpy
-st-audiorec
-dateparser
