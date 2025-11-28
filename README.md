@@ -37,12 +37,15 @@ A **Streamlit web app** to track your income and expenses. This app supports **a
 ### 1. Clone the repository:
 
 git clone <repo_url>
+
 cd <repo_folder>
 
 ### Create a Python virtual environment (recommended):
 
 python -m venv venv
+
 venv\Scripts\activate   # Windows
+
 source venv/bin/activate # Linux/macOS
 
 ### Install dependencies:
