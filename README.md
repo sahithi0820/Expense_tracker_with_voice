@@ -1,4 +1,4 @@
-# Expense_tracker_with_voice
+# 💸Voice-Enabled Personal Expense Tracker
 A **Streamlit web app** to track your income and expenses. This app supports **adding transactions via text, CSV upload, and voice input**. It visualizes your spending and helps manage personal finances easily.
 
 ## **Features**
